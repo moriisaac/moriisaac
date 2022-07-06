@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moriisaac
 - 👀 I’m interested in ...website developing and app intergrations
 - 🌱 HTML,CSS,JAVASCRIPT,PYTHON, MySQL and flutter----
-- 💞️ Get in touch for Projectsprojects
+- 💞️ Get in touch for Projects
 - 📫 How to reach me ...email@wesongamori@gmail.com
 
 <!---
