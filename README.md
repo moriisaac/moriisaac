@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Advanced Machine Learning   
   
 
-- ❓ Ask me about anything related to Python development and Full stack developmen and related technologies  
+- ❓ Ask me about anything related to Python development and Full stack development and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
