@@ -109,12 +109,31 @@
 ## Github Stats  
 
 ## Show some ❤ by starring my repositories
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=moriisaac&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moriisaac&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriisaac&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=moriisaac&&style=flat-square)  
+  
 
 <br/>  
 
 
 <br />
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
