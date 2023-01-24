@@ -90,7 +90,7 @@
 <a href="https://dev.to/moridev" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/moriwesonga" target="_blank">
+<a href="[https://linkedin.com/in/moriwesonga](https://www.linkedin.com/in/mori-wesonga-150505219/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRIlaKR8iR3q4VvcJtQf%2FJw%3D%3D)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/moridev" target="_blank">
