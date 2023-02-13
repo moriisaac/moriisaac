@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mori , a full-time full-stack freelance developer 👨‍💻 working remotely since 2020, Shall We?🚀</div>  
   
 
-- 🔭 I’m currently working in Upwork and freelancer   
+- 🔭 I’m currently working on Upwork and freelancer   
   
 
 - 🌱 I’m currently learning Advanced Machine Learning, you should too.
