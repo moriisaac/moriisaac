@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Advanced Machine Learning, you should too.
    
-  --------------------------------------------------------------------------------------|||||||||||||||||
+  --------------------------------------------------------------------------------------||||||||||||||||
 
 - ❓ Ask me about anything related to Python development and Full stack development and related technologies  
   
