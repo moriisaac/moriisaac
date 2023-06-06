@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on Upwork and freelancer   
   
+-If it involves data ping me 
 
 - 🌱 I’m currently learning Advanced Machine Learning, you should too.
    
