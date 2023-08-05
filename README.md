@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-  jjjjkjjkjkjkhuuuouy
+  jjjjkjjkjkjkhuuuou
 
 ### <div align="center">I'm Mori , a full-time full-stack freelance developer 👨‍💻 working remotely since 2020, Shall We?🚀</div>  
   
