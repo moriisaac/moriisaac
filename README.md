@@ -4,7 +4,7 @@
 
   
 
-### <div align="center">I'm Mori , a full-time full-stack freelance developer 👨‍💻 working remotely since 2020, Shall We?🚀</div>  
+### <div align="center">I'm Mori , a full-time Django Maniac and Cloud Solutions Architect 👨‍💻 working remotely since 2020, Shall We?🚀</div>  
   
 
 - 🔭 I’m currently working on Upwork and freelancer   
