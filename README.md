@@ -48,7 +48,7 @@ GitHub Actions, Jenkins, ArgoCD, IaC Workflows, Agile/DevOps practices
 | **CuraConnect** | Healthcare SaaS for clinics with real-time sync and Okta IAM. | Django REST, gRPC, Redis Streams, EKS |
 | **LiveFarm** | IoT-integrated farm management system with Grafana analytics. | Django, Vue, AWS S3, CloudFront, Kubernetes |
 
-> 🧾 Detailed project architecture summaries available in my [**Selected Cloud Projects Portfolio →**](#)
+> 🧾 Detailed project architecture summaries available in my [**Selected Cloud Projects Portfolio →**](https://moriisaac.vercel.app/#projects)
 
 ---
 
