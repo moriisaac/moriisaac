@@ -72,7 +72,7 @@ GitHub Actions, Jenkins, ArgoCD, IaC Workflows, Agile/DevOps practices
 
 💼 [LinkedIn – Mori Isaac Wesonga](https://linkedin.com/in/mori-isaac-wesonga)  
 📫 **Email:** wesongamori@gmail.com  
-🌐 **Portfolio:** moriisaac.vercel.app  
+🌐 **Portfolio:** https://moriisaac.vercel.app
 
 ---
 
