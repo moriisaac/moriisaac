@@ -63,7 +63,7 @@ GitHub Actions, Jenkins, ArgoCD, IaC Workflows, Agile/DevOps practices
 
 ## 📊 GitHub Stats
 
-![Mori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moriisaaca&show_icons=true&theme=github_dark&hide_border=true)  
+![Mori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moriisaac&show_icons=true&theme=github_dark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moriisaac&layout=compact&theme=github_dark&hide_border=true)
 
 ---
